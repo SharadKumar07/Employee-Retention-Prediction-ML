@@ -4,3 +4,4 @@ numpy
 scikit-learn
 Flask-MonitoringDashboard
 xgboost
+gunicorn

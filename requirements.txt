@@ -2,6 +2,6 @@ flask
 pandas
 numpy
 scikit-learn
-import pickle
+pickle
 Flask-MonitoringDashboard
 xgboost

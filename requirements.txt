@@ -5,3 +5,9 @@ scikit-learn
 Flask-MonitoringDashboard
 xgboost
 gunicorn
+Jinja2
+Werkzeug
+certifi
+chardet
+distribute
+requests
